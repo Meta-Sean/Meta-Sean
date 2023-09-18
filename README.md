@@ -5,12 +5,11 @@ I'm a Python Programmer and AI Enthusiast.
 <!-- Replace 'Your Name' with your name -->
 
 ![GitHub followers](https://img.shields.io/github/followers/Meta-Sean?style=social) 
-![Twitter Follow](https://img.shields.io/twitter/follow/terps?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/terpsfi?style=social)
 
 
 ## 📝 About Me
 
-- 🔭 I’m currently working on [Project Name](Project Link).
 
 - 🌱 I’m currently learning NLP techniques, deep RL, and how to draw insights from data.
 
@@ -34,6 +33,7 @@ I'm a Python Programmer and AI Enthusiast.
 
 - **Twitter**: [Twitter](https://twitter.com/[terps])
 - **Portfolio**: [Portfolio](https://terpsfi.xyz/)
+- **HuggingFace**: [HuggingFace)(https://huggingface.co/Terps)
 
 
 <!--

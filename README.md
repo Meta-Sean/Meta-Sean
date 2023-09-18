@@ -33,7 +33,7 @@ Learning in public
 
 - **Twitter**: [Twitter](https://twitter.com/[terps])
 - **Portfolio**: [Portfolio](https://terpsfi.xyz/)
-- **HuggingFace**: [HuggingFace)(https://huggingface.co/Terps)
+- **HuggingFace**: [HuggingFace](https://huggingface.co/Terps)
 
 
 

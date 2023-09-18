@@ -23,7 +23,7 @@ I'm a Python Programmer and AI Enthusiast.
 
 ## 📊 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Meta-Sean])](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Meta-Sean)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📚 Latest Blog Posts
 

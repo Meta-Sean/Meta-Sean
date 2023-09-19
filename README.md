@@ -31,7 +31,7 @@ Learning in public
 
 ## 📞 Get in Touch
 
-- **Twitter**: [Twitter](https://twitter.com/[terps])
+- **Twitter**: [Twitter](https://twitter.com/terpsfi)
 - **Blog**: [Blog](https://terpsfi.xyz/)
 - **HuggingFace**: [HuggingFace](https://huggingface.co/Terps)
 

@@ -34,6 +34,7 @@ Learning in public
 - **Twitter**: [Twitter](https://twitter.com/terpsfi)
 - **Blog**: [Blog](https://terpsfi.xyz/)
 - **HuggingFace**: [HuggingFace](https://huggingface.co/Terps)
+- **Kaggle**: [Kaggle](https://www.kaggle.com/terpsmeta)
 
 
 

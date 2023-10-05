@@ -1,6 +1,6 @@
 ### Hi there I'm Sean 👋
 
-I'm a Python Programmer and AI Enthusiast.
+I'm a Python Programmer and Machine Learning Enthusiast.
 Learning in public
 
 

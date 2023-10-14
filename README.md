@@ -15,6 +15,8 @@ Learning in public
 
 - 👯 I’m looking to collaborate on open source ML/AI application.
 
+- ⚙️ Building [socratic.ai](https://socratic-ai.vercel.app) a chatbot that uses the socratic method to help you learn. 
+
 
 ## 🛠 Skills
 

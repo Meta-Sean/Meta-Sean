@@ -11,7 +11,7 @@ Learning in public
 ## 📝 About Me
 
 
-- 🌱 I’m currently learning all things deep learning from NLP techniques, deep RL, audio ML, agents and more generally how to draw insights from data.
+- 🌱 I’m currently learning all things deep learning from NLP techniques, deep RL, audio ML, agentic software and more generally how to draw insights from data.
 
 - 👯 I’m looking to collaborate on open source ML/AI application.
 

@@ -15,7 +15,7 @@ Learning in public
 
 - 👯 I’m looking to collaborate on open source ML/AI application.
 
-- ⚙️ Building Prism, an electron app that lets you talk to your computer, harnessing the full power of openai's vision, tts, stt, and chat apis. 
+- ⚙️ Building Prism, an electron app that lets you talk to your computer, harnessing the full power of openai's vision, tts, stt, and chat api. 
 - Check out [socratic.ai](https://socratic-ai.vercel.app) a chatbot that uses the socratic method to help you learn.
 
 

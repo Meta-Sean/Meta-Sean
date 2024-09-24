@@ -10,9 +10,7 @@ Learning in public
 ## 📝 About Me
 
 
-- 🌱 I’m currently hacking on all things deep learning from NLP techniques, deep RL, audio ML, agentic software and more generally how to draw insights from data.
-
-- 👯 I’m looking to collaborate on open source ML/AI application.
+- 🌱 I’m currently hacking on all things deep learning from NLP, RL, audio ML, agentic software and more generally drawing insights from data.
 
 - ⚙️ Building snip-chat, an electron app that lets you talk to your computer, harnessing the full power of openai's vision, tts, stt, and chat api. 
 - Check out [socratic.ai](https://socratic-ai.vercel.app) a chatbot that uses the socratic method to help you learn.
@@ -20,7 +18,7 @@ Learning in public
 
 ## 🛠 Skills
 
-- **Languages**: `JavaScript`, `Python`
+- **Languages**: `Python`,  `Rust`, `Bash`, `js`
 
 ## 📊 GitHub Stats
 
@@ -33,7 +31,6 @@ Learning in public
 
 ## 📞 Get in Touch
 
-- **Twitter**: [Twitter](https://twitter.com/terpsfi)
 - **Blog**: [Blog](https://terpsfi.xyz/)
 - **HuggingFace**: [HuggingFace](https://huggingface.co/Terps)
 - **Kaggle**: [Kaggle](https://www.kaggle.com/terpsmeta)

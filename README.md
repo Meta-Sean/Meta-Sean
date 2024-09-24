@@ -5,7 +5,6 @@ Learning in public
 
 
 ![GitHub followers](https://img.shields.io/github/followers/Meta-Sean?style=social) 
-![Twitter Follow](https://img.shields.io/twitter/follow/terpsfi?style=social)
 
 
 ## 📝 About Me

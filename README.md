@@ -1,7 +1,4 @@
-### Hi there I'm Sean 👋
-
-I'm a Python Programmer and ML/AI Enthusiast.
-Learning in public
+### Hi there 👋
 
 
 ![GitHub followers](https://img.shields.io/github/followers/Meta-Sean?style=social) 
